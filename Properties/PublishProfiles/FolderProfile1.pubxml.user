@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Lokesh\getbiz_custom_app-main\Publish_getbizcustomapp</_PublishTargetUrl>
+    <History>True|2022-04-01T15:08:49.6815275Z;True|2022-04-01T20:03:05.5097434+05:30;True|2022-04-01T19:41:56.8761041+05:30;True|2022-03-16T19:04:34.8074543+05:30;True|2022-03-15T18:55:15.2713501+05:30;True|2022-03-15T18:18:00.0144226+05:30;True|2022-03-14T22:43:03.2482127+05:30;True|2022-03-14T22:27:19.3639161+05:30;</History>
+  </PropertyGroup>
+</Project>
